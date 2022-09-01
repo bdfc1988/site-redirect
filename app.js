@@ -16,6 +16,7 @@ app.get('/circularmeasure', (req, res) => {res.redirect('/index.html')});
 app.get('/trigonometry', (req, res) => {res.redirect('/index.html')});
 app.get('/register', (req, res) => {res.redirect('/index.html')});
 app.get('/questions', (req, res) => {res.redirect('/index.html')});
+app.get('/login', (req, res) => {res.redirect('/index.html')});
 
 
 
